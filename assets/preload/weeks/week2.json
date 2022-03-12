@@ -1,0 +1,48 @@
+{
+	"storyName": "good times must end",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"spooky",
+			"spooky1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sanguine-south",
+			"spooky2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chiller",
+			"spooky3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

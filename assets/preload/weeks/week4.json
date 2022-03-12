@@ -1,0 +1,48 @@
+{
+	"storyName": "must murder mommy",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"matricidal",
+			"mom1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"milk",
+			"mom2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"schizophrenzy",
+			"mom3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"mom",
+		"pico",
+		""
+	],
+	"weekName": "Custom Week"
+}

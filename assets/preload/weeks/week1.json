@@ -1,0 +1,48 @@
+{
+	"storyName": "last one",
+	"hideFreeplay": false,
+	"weekBackground": "stage2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"lament",
+			"dad0",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dusk",
+			"dad2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"deathmatch",
+			"dad4",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
